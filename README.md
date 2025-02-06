@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mady2005 aka (Madhura)
 - 👀 I’m interested in exploring data science and ML
-- 🌱 I’m currently learning PYTHON and Mathematics
+- 🌱 I’m currently learning PYTHON and Mathematics for ML
 - 💞️ I’m looking to collaborate on beginner level projects related to python, ML
 - 📫 How to reach me
  email- madhuragirishdesai2005@gmailcom
